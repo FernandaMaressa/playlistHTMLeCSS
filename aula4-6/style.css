@@ -32,14 +32,3 @@
     width: 230px;
     height: 55px;
 }
-
-/*.btn-02 {
-    width: 200px;
-    height: 50px;
-    background-color: var(--color-primary);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    cursor: pointer;
-    border-radius: 10px;
-}
