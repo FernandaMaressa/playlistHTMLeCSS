@@ -21,3 +21,11 @@ Aula 9: https://youtu.be/R2LBqr-abYc?si=34DqEFMoAUiCva5X
 Aula 10: https://youtu.be/7fFBJWXTLPU?si=vAF0QQAw6l2Ti2oc
 
 Aula 11: https://youtu.be/KKeFuxaronQ?si=Cl1OkFg6BgOyr0jY
+
+Aula 12: https://youtu.be/t6dlq_DOczk?si=tQrtqTEFjaKrtQXL
+
+Aula 13: https://youtu.be/WiMEhvl_IZc?si=PMfL4L7kGtZ1kqhF
+
+Aula 14: https://youtu.be/KmvDgHJzat4?si=PYk2rPxw9SCBpUEH
+
+Aula 15: https://youtu.be/9AuxoM83THw?si=AwzDYdimBD0an3M5
