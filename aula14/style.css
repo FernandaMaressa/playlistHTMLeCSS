@@ -1,6 +1,7 @@
 .primeira-div{
     background-color: aqua;
     height: 30px;
+    width: 300px;
 }
 
 .segunda-div{
@@ -10,4 +11,27 @@
 
 .primeiro-link{
     background-color: violet;
+}
+
+.segundo-link{
+    background-color: yellow;
+}
+
+strong{
+    background-color: green;
+
+}
+
+.terceira-div{
+    background-color: orange;
+    height: 30px;
+    width: 300px;
+    display: inline-block;
+}
+
+.quarta-div{
+    background-color: pink;
+    height: 30px;
+    width: 300px;
+    display: inline-block;
 }
